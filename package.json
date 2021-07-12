@@ -1,6 +1,6 @@
 {
   "name": "twindtinth",
-  "version": "0.1.0-0",
+  "version": "0.1.0",
   "description": "dtinth’s twind preset",
   "main": "index.js",
   "scripts": {
