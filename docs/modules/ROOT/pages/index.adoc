@@ -1,0 +1,21 @@
+= twindtinth
+
+dtinth’s twind preset
+
+== Installation
+
+ $ yarn add twind twindtinth
+
+== Usage
+
+[source,typescript]
+----
+import { setup } from 'twind/shim'
+import twindtinth from 'twindtinth'
+setup(twindtinth)
+----
+
+[source,html]
+----
+<body class="bg-#353433 text-#e9e8e7">
+----
